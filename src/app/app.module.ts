@@ -7,7 +7,7 @@ import { HttpClientModule  } from "@angular/common/http";
 
 
 import { DashboardComponent } from './components/dashboard/dashboard.component';
-import { LeftSidebarComponent } from './left-sidebar/left-sidebar.component';
+import { LeftSidebarComponent } from './components/left-sidebar/left-sidebar.component';
 import { UserListComponent } from './components/user-list/user-list.component';
 import { OrderListComponent } from './components/order-list/order-list.component';
 import { DashboardDetailsComponent } from './components/dashboard-details/dashboard-details.component';
